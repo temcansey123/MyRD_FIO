@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+    
+    
+     <category>
+    <pattern>HELLO</pattern>
+    <template>
+        Hİ.HOW CAN I HELP YOU?
+    </template>
+</category>
+
+ <category>
+    <pattern>I WANT TO BOOK A ROOM</pattern>
+    <template>
+        HOW MANY ROOMS DO YOU WANT?
+    </template>
+</category>
+
+ <category>
+    <pattern>ROOM FOR TWO PEOPLE</pattern>
+    <template>
+        CAN I KNOW YOUR NAME?
+    </template>
+</category>
+
+ <category>
+    <pattern>MY NAME IS * *</pattern>
+    <template>
+        MR CAN SEYMEN, WHICH DATES DO YOU WANT?
+    </template>
+</category>
+
+<category>
+    <pattern>2 DAYS FROM MARCH 3</pattern>
+    <template>
+        IS ROOM 29 SUITABLE FOR YOU?
+    </template>
+</category>
+       
+<category>
+    <pattern>YES</pattern>
+    <template>
+        TWO DAYS FROM MARCH 3. ROOM NUMBER 29 HAS BEEN RESERVED.
+    </template>
+</category>
+              
+<category>
+    <pattern>THANK YOU</pattern>
+    <template>
+        HAVE A NICE DAY
+    </template>
+</category>              
+                
+
+       
+   
+  
+   
+   
+  
+
+</aiml>
+
